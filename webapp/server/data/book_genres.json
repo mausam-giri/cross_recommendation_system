@@ -1,0 +1,199 @@
+[
+  {
+    "genre": "Fiction",
+    "includes": [
+      "Young Adult",
+      "Fantasy",
+      "Classics",
+      "Historical Fiction",
+      "Science Fiction",
+      "Horror",
+      "Mystery",
+      "Thriller",
+      "Dystopian",
+      "Contemporary",
+      "Mythology",
+      "Paranormal",
+      "Coming of Age",
+      "Epic",
+      "Western",
+      "Gothic",
+      "Crime",
+      "Fairy Tales",
+      "Regency",
+      "High Fantasy"
+    ]
+  },
+  {
+    "genre": "Romance",
+    "includes": [
+      "Romance",
+      "Contemporary Romance",
+      "Historical Romance",
+      "Romantic Suspense",
+      "Young Adult Romance",
+      "Science Fiction Romance",
+      "M/M Romance",
+      "F/F Romance",
+      "Interracial Romance",
+      "Regency Romance"
+    ]
+  },
+  {
+    "genre": "Nonfiction",
+    "includes": [
+      "History",
+      "Biography",
+      "Memoir",
+      "Travel",
+      "Science",
+      "Philosophy",
+      "Religion",
+      "True Crime",
+      "Self Help",
+      "Art",
+      "Food",
+      "Economics",
+      "Psychology",
+      "Business",
+      "Education",
+      "Nature",
+      "Health",
+      "Music",
+      "Journalism"
+    ]
+  },
+  {
+    "genre": "Children's",
+    "includes": [
+      "Children's",
+      "Picture Books",
+      "Graphic Novels",
+      "Middle Grade"
+    ]
+  },
+  {
+    "genre": "Young Adult",
+    "includes": [
+      "Young Adult",
+      "Dystopian",
+      "High School"
+    ]
+  },
+  {
+    "genre": "Teen",
+    "includes": [
+      "Teen",
+      "Young Adult Romance"
+    ]
+  },
+  {
+    "genre": "Mystery",
+    "includes": [
+      "Mystery",
+      "Crime",
+      "Thriller",
+      "Detective",
+      "Cozy Mystery",
+      "Historical Mystery"
+    ]
+  },
+  {
+    "genre": "Crime",
+    "includes": [
+      "Crime",
+      "Thriller",
+      "Detective",
+      "Noir",
+      "Police Procedural",
+      "Legal Thriller",
+      "Espionage"
+    ]
+  },
+  {
+    "genre": "Thriller",
+    "includes": [
+      "Thriller",
+      "Crime",
+      "Mystery",
+      "Suspense",
+      "Psychological Thriller"
+    ]
+  },
+  {
+    "genre": "Fantasy",
+    "includes": [
+      "Fantasy",
+      "Mythology",
+      "Urban Fantasy",
+      "Epic Fantasy",
+      "Dark Fantasy",
+      "Fairy Tales",
+      "Steampunk"
+    ]
+  },
+  {
+    "genre": "Science Fiction",
+    "includes": [
+      "Science Fiction",
+      "Science Fiction Romance",
+      "Dystopian"
+    ]
+  },
+  {
+    "genre": "Horror",
+    "includes": [
+      "Horror",
+      "Paranormal"
+    ]
+  },
+  {
+    "genre": "Drama",
+    "includes": [
+      "Drama",
+      "Plays"
+    ]
+  },
+  {
+    "genre": "Poetry",
+    "includes": [
+      "Poetry"
+    ]
+  },
+  {
+    "genre": "Art",
+    "includes": [
+      "Art",
+      "Design",
+      "Architecture"
+    ]
+  },
+  {
+    "genre": "Humor",
+    "includes": [
+      "Humor"
+    ]
+  },
+  {
+    "genre": "Religion",
+    "includes": [
+      "Religion",
+      "Christian Fiction",
+      "Christian Romance",
+      "Christian Non Fiction"
+    ]
+  },
+  {
+    "genre": "Other",
+    "includes": [
+      "School",
+      "Sports",
+      "Hobbies",
+      "Reference",
+      "Foreign Literature",
+      "LGBT",
+      "Education",
+      "Social Sciences"
+    ]
+  }
+]
